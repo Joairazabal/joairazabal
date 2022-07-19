@@ -2,6 +2,10 @@
 <h4 align="left">Soy un desarrollador Full Stack orientado al front-end💻. Trabajo en tecnologías como React, Javascript, Express, Sequelize, entre otras tecnologías. Me interesa la interfaz y experiencia de usuario, sobre todo,siempre aprendiendo y perfeccionando metodologías para una mejor productividad y capacidad de escribir código. Sin embargo, me encanta sumar conocimientos y perfeccionar lo aprendrido.📖</h4>
 
 <h4>Actualmente me gradué del Soy Henry Bootcamp como Desarrollador Full Stack 🧑‍🎓, en el cual pasé más de 800 horas en código.</h4>
+
+<h4>Siempre estoy buscando aprender mucho más sobre este mundo de la programación que es tan grande.Sobre todo, me interesa la interfaz y experiencia de usuario,
+siempre aprendiendo y perfeccionando metodologías para una mejor productividad y capacidad de escribir código. 
+</h4>
 <h2>Trabajo en tecnologias como:</h2>
 <div "flex">
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
