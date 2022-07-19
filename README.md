@@ -25,9 +25,7 @@
    <a href="https://trello.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> 
-    </a>
+   
 <a href="https://devdocs.io/css/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"  />
     </a>
