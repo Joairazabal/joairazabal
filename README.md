@@ -36,6 +36,6 @@ siempre aprendiendo y perfeccionando metodologías para una mejor productividad 
  <a href="https://www.linkedin.com/in/joaquin-irazabal/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="joairazabal1@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Valentino Russo" height="40" width="40" /></a>
+  <a href="mailto:joairazabal1@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Valentino Russo" height="40" width="40" /></a>
  </div> 
 </p>
