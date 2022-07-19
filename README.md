@@ -31,4 +31,10 @@ siempre aprendiendo y perfeccionando metodologías para una mejor productividad 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"  />
     </a>
  </div>
+ <div>
+ <h3>Contacto</h3>
+ <a href="https://www.linkedin.com/in/joaquin-irazabal/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+ </div> 
 </p>
