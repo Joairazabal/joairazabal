@@ -27,5 +27,8 @@ siempre aprendiendo y perfeccionando metodologías para una mejor productividad 
 <a href="https://devdocs.io/css/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"  />
     </a>
+ <a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"  />
+    </a>
  </div>
 </p>
