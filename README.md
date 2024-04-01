@@ -43,3 +43,14 @@ height="40"/> </a>
   <a href="mailto:joairazabal1@gmail.com" target="blank"><img  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Valentino Russo" height="40" width="40" /></a>
  </div> 
 </p>
+
+
+
+## GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/joairazabal">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joairazabal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joairazabal&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
